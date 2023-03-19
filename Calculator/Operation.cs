@@ -32,7 +32,7 @@ namespace Calculator
             {
                 { Operation.ADDITION, "+"},
                 { Operation.SUBTRACTION, "-" },
-                { Operation.MULTIPLICATION, "*" },
+                { Operation.MULTIPLICATION, "." },
                 { Operation.DIVISION, "/" }
             };
 
@@ -41,7 +41,7 @@ namespace Calculator
             {
                 { "+", Operation.ADDITION },
                 { "-", Operation.SUBTRACTION },
-                { "*", Operation.MULTIPLICATION },
+                { ".", Operation.MULTIPLICATION },
                 { "/", Operation.DIVISION }
             };
     }
