@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator.Test", "Calculator.Test\Calculator.Test.csproj", "{04882E2A-CDCD-4AE2-A40C-A0FB7A2E621F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuidGenerator", "GuidGenerator\GuidGenerator.csproj", "{647AB4FE-1957-428A-A2BF-FFB9AC9216AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuidGenerator", "GuidGenerator\GuidGenerator.csproj", "{647AB4FE-1957-428A-A2BF-FFB9AC9216AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTTool", "JWTTool\JWTTool.csproj", "{AC3F3A03-D036-438D-8473-B701FCF8F57C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{647AB4FE-1957-428A-A2BF-FFB9AC9216AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{647AB4FE-1957-428A-A2BF-FFB9AC9216AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{647AB4FE-1957-428A-A2BF-FFB9AC9216AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3F3A03-D036-438D-8473-B701FCF8F57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3F3A03-D036-438D-8473-B701FCF8F57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3F3A03-D036-438D-8473-B701FCF8F57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3F3A03-D036-438D-8473-B701FCF8F57C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
