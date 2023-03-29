@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Time": {
+      "commandName": "Project",
+      "commandLineArgs": "-u"
+    }
+  }
+}

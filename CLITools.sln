@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuidGenerator", "GuidGenera
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTTool", "JWTTool\JWTTool.csproj", "{AC3F3A03-D036-438D-8473-B701FCF8F57C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pomodoro", "Pomodoro\Pomodoro.csproj", "{0E23E452-1437-40A1-9BC6-2DB214E00B94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pomodoro", "Pomodoro\Pomodoro.csproj", "{0E23E452-1437-40A1-9BC6-2DB214E00B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time", "Time\Time.csproj", "{B1E1CB73-7B24-4420-842B-B75FA4D264E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0E23E452-1437-40A1-9BC6-2DB214E00B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E23E452-1437-40A1-9BC6-2DB214E00B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E23E452-1437-40A1-9BC6-2DB214E00B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E1CB73-7B24-4420-842B-B75FA4D264E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E1CB73-7B24-4420-842B-B75FA4D264E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E1CB73-7B24-4420-842B-B75FA4D264E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E1CB73-7B24-4420-842B-B75FA4D264E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
